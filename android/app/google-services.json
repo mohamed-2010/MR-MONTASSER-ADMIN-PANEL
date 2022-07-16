@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257461961767",
+    "project_id": "hello-connect-14fdd",
+    "storage_bucket": "hello-connect-14fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257461961767:android:8aa73a4086498101307a02",
+        "android_client_info": {
+          "package_name": "com.child.learning.admin.panel.childappadminpanelll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257461961767-179aijbp6p236plg6md4muacfl3ldfle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIoPUdr7BaJvVD1dmf5x8n2ISoHTFxXl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257461961767-179aijbp6p236plg6md4muacfl3ldfle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
